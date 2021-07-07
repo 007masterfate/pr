@@ -1,0 +1,218 @@
+:root{
+    --nav-textfont:font-family: 'Open Sans', sans-serif;
+}
+
+/* in built tags */
+p{
+    display: inline;
+    color: white;
+    padding-right: 10px;
+}
+
+a,a:hover{
+    text-decoration: none;
+    color:inherit;
+    color: white;
+}
+i{
+    color: white;
+    padding-left: 10px;
+}
+body{
+    overflow-x: hidden;
+}
+/* navbar css and first part*/
+
+.backimg{
+    background-image: url("https://i.imgur.com/lwxdUtK.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    columns: white;
+    margin-bottom: 100px;
+}
+.navtext1{
+    padding-top: 15px;
+    padding-left: 80px;
+}
+.navtext2{
+    padding-left: 78px;
+    padding-top: 17px;
+    font-size: 16px;
+}
+.navtext2 .pp{
+    padding-left: 30%;
+}
+.navtext2 p ,.navtext2 a{
+    padding-right: 16px;
+}
+.titletext{
+    color: rgba(18, 168, 78, 255);
+    font-size: 22px;
+}
+.navpic{
+    vertical-align: middle;
+    border-style: none;
+    margin-left: 4px;
+    padding-right: 22px;
+}
+.navtext3{
+    color:white;
+    text-align: center;
+    margin-top: 120px;
+}
+
+.ig{
+    padding-left: 41%;
+    padding-right: 8px;
+}
+.t1{
+    font-family: 'Fuggles', cursives;
+}
+.t1 h3{
+    font-size: 55px;
+}
+.t2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.t3{
+    font-size: 18px;
+    color: rgba(18, 168, 78, 255);
+    text-align: center;
+    border-radius: 12px;
+    padding: 10px 20px 10px 20px;    
+    margin-top: 70px;
+}
+
+/* 2nd part */
+.blog1{
+    border: 2px solid rgba(18, 168, 78, 255);
+}
+.blog1,.blog2{
+    margin-left: 94px;
+    margin-right: 81px;
+}
+.blog2{
+    margin-top: 10px;
+    margin-bottom: 450px;
+}
+.blog1 p ,.blog1 i ,.blog2 p ,.blog2 i{
+    color: black;
+    padding: 5px;
+}
+.card-body{
+    color: black;
+    font-size: 14px;
+}
+.burpic{
+    width: 354px;
+    height: auto;
+    position: absolute;
+    left: -3px;
+    bottom: -2px;
+}
+
+.blog1 .btn,.blog2 .btn{
+    margin-top: 10px;
+}
+
+/* 3rd part */
+div .hour{
+    margin-left: 12px;
+    margin-bottom: 20px;
+}
+
+.part3{
+    color:black;
+    background-color: rgba(18, 168, 78, 255);
+    padding-top: 13px;
+}
+.part3 div{
+    display: inline-block;
+    text-align: center;
+    color:white;
+    font-size: 15px;
+    margin-left: 100px;
+}
+.part3 p{
+    display: block;
+}
+.hour{
+    position: relative;
+    font-size: 22px;
+    bottom: 15px;
+}
+.days{
+    padding: 10px;
+    margin-left: 100px;
+}
+.days div{
+    margin-left: 10px;    
+}
+.days .boxstyle{
+    border-left: 1px solid white;
+    padding-left: 9px;
+}
+
+/* 4th part */
+.part4{
+    color:white;
+    background-color: black;
+}
+.part4 div{
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 90px;
+    margin-top: 26px;
+    padding-bottom: 52px;    
+}
+.part4 p{
+    display: block;
+    padding-top: 10px;
+}
+.part4 i{
+    padding-right: 6px;
+    color: rgba(18, 168, 78, 255) ;
+}
+.part4 h5{
+    color: rgba(18, 168, 78, 255);
+    margin-left: 8px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.last p{
+    margin-top: -26px;
+    position: relative;
+    top: 16px;
+}
+.last button{
+    margin-top: 10px;
+    width: 230px;
+    height: 45px;
+    position: relative;
+    top: 30px;
+}
+.last input{
+    width: 230px;
+    height: 45px;
+    position: relative;
+    top: 22px;
+}
+.part4 .last{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.p42{
+    padding-left: 35px;
+}
+.last{
+    padding-left: 110px;
+}
+/* footer */
+.footer article{
+    color: black;
+    font-size: 13px;
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
