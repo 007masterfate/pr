@@ -1,7 +1,3 @@
-:root{
-    --nav-textfont:font-family: 'Open Sans', sans-serif;
-}
-
 /* in built tags */
 p{
     display: inline;
@@ -41,7 +37,7 @@ body{
     font-size: 16px;
 }
 .navtext2 .pp{
-    padding-left: 30%;
+    padding-left: 28%;
 }
 .navtext2 p ,.navtext2 a{
     padding-right: 16px;
@@ -63,7 +59,7 @@ body{
 }
 
 .ig{
-    padding-left: 41%;
+    padding-left: 39%;
     padding-right: 8px;
 }
 .t1{
